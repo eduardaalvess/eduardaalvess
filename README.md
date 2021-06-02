@@ -1,4 +1,4 @@
-##                                     HEY, Welcome to my perfil! ✌🏾 I am Eduarda, and this is my GitHub page 💻 👩🏾‍💻
+##                                     HEY, welcome to my GitHub page 💻 👩🏾‍💻
 
 
 <img src="https://i.redd.it/13cfm6uzvv271.png" />
