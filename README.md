@@ -1,4 +1,4 @@
-##                                     HEY, Welcome to my perfil! ✌🏾 I am Eduarda, and this is my GitHub page 💻 
+##                                     HEY, Welcome to my perfil! ✌🏾 I am Eduarda, and this is my GitHub page 💻 👩🏾‍💻
 
 
 <img src="https://i.redd.it/13cfm6uzvv271.png" />
@@ -27,7 +27,7 @@ From an early age I always had the pleasure of studying. Books have always been 
 ## Listen with me 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dudzzle&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile) 
 
-## MBTI Profile 
+## MBTI Profile 🔎
 
 ### INTJ-A, Architect. 
 ##### “You are not entitled to your opinion. 
