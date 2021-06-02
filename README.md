@@ -1,10 +1,11 @@
 ##                                     HEY, Welcome to my perfil! ✌🏾 I am Eduarda, and this is my GitHub page 💻 
 
+
+<img src="https://coverfiles.alphacoders.com/354/35485.jpg" />
+
 Desde cedo sempre tive prazer em estudar. Livros sempre foram uma grande paixão desde a infância. Foi durante essa apoteose de curiosidade que descobri a Ciência da Computação, com seus códigos e algoritmos, criando e caracterizando todas as coisas fascinantes que conhecemos hoje. Não por acaso, hoje, sou uma orgulhosa estudante, modesta programadora e curiosa incorrigível. Meus principais interesses incluem Ciência de Dados, Desenvolvimento para Web e Back-end Developer.
 
 From an early age I always had the pleasure of studying. Books have always been a great passion since childhood. It was during this apotheosis of curiosity that I discovered Computer Science, with its codes and algorithms, creating and characterizing all the fascinating things we know today. It is not by chance, today, that I am a proud student, a modest programmer, and an incorrigible curious. My main interests include Data Science, Web Developer and Back-End Developer. 
-
-<img src="https://coverfiles.alphacoders.com/354/35485.jpg" />
 
 ## Tecnologies and Tools 🖥
 
