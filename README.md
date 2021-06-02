@@ -26,3 +26,7 @@ From an early age I always had the pleasure of studying. Books have always been 
 
 ## Listen with me 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dudzzle&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile) 
+
+## MBTI Profile 
+
+<img src="https://i.redd.it/zr90lvihdw271.png " />
