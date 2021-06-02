@@ -1,6 +1,6 @@
 <img src="https://i.redd.it/13cfm6uzvv271.png" />
 
-                                              HEY, welcome to my GitHub page 💻 👩🏾‍💻
+##                                              HEY, welcome to my GitHub page 💻 👩🏾‍💻
 
 Desde cedo sempre tive prazer em estudar. Livros sempre foram uma grande paixão desde a infância. Foi durante essa apoteose de curiosidade que descobri a Ciência da Computação, com seus códigos e algoritmos, criando e caracterizando todas as coisas fascinantes que conhecemos hoje. Não por acaso, hoje, sou uma orgulhosa estudante, modesta programadora e curiosa incorrigível. Meus principais interesses incluem Ciência de Dados, Desenvolvimento para Web e Back-end Developer.
 
