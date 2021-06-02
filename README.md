@@ -57,8 +57,8 @@ _From an early age I always had the pleasure of studying. Books have always been
 ## MBTI Profile 🔎
 
 ### INTJ-A, Architect. 
-> “You are not entitled to your opinion. 
+> _“You are not entitled to your opinion. 
 You are entitled to your informed opinion.                       
-No one is entitled to be ignorant.” - Harlan Ellison
+No one is entitled to be ignorant.” - Harlan Ellison_
 
 <img src="https://i.redd.it/zr90lvihdw271.png" /> 
