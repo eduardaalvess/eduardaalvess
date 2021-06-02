@@ -29,4 +29,4 @@ From an early age I always had the pleasure of studying. Books have always been 
 
 ## MBTI Profile 
 
-<img src="https://i.redd.it/zr90lvihdw271.png " />
+<img src="https://i.redd.it/zr90lvihdw271.png" />
