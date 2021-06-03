@@ -33,11 +33,11 @@
 
 
 
----------- | Projetos        | ----------
+### Projetos
+
 ---------- | :-------------: | ----------
 Linguagens | Nome do Projeto | Descrição 
 ---------- | --------------- | ----------
-HTML5, CSS3, JavaScript | [Snake Game](https://github.com/saintravi/snakegame) | Recriando o clássico jogo da cobrinha. Projeto realizado durante o Bootcamp HTML Developer da Digital Innovation One.
-Exemplo 2 | R$ 8 |
-Exemplo 3 | R$ 7 |
-Exemplo 4 | R$ 8 |
+HTML5, CSS3, JavaScript | [Snake Game](https://github.com/saintravi/snakegame) | Recreating the classic Snake Game. Project developed during the Bootcamp HTML Developer from Digital Innovation One.
+HTML5, CSS3 | [Instagram Page](https://github.com/saintravi/instagram-inicial) | Cloning Instagram page. Project developed during the Bootcamp HTML Developer from Digital Innovation One.
+JavaScript, HTML5, CSS3 | [Netflix](https://github.com/saintravi/netflix-layout) | Clone of Netflix page, using Flexbox and JQuery.
