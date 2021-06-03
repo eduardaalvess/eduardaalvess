@@ -1,5 +1,3 @@
-<img src="https://i.redd.it/13cfm6uzvv271.png" />
-
 ## **_Welcome to my GitHub page_** 👩🏾‍💻
 
 _Desde cedo sempre tive prazer em estudar. Livros sempre foram uma grande paixão desde a infância. Foi durante essa apoteose de curiosidade que descobri a Ciência da Computação, com seus códigos e algoritmos, criando e caracterizando todas as coisas fascinantes que conhecemos hoje. Não por acaso, hoje, sou uma orgulhosa estudante da UFRPE, modesta programadora e curiosa incorrigível. Meus principais interesses incluem Ciência de Dados, Desenvolvimento para Web e Back-end Developer. Você pode me encontrar [aqui](https://linktr.ee/eduarda.alves)._
