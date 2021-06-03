@@ -31,12 +31,3 @@
 
 ## ![Eduarda's GitHub stats](https://github-readme-stats.vercel.app/api?username=saintravi&show_icons=true&theme=gotham) [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saintravi&layout=compact&theme=gotham)](https://github.com/saintravi/github-readme-stats)
 
-
-## About me 🔎
-
-### INTJ-A, Architect. 
-> _“You are not entitled to your opinion. 
-You are entitled to your informed opinion.                       
-No one is entitled to be ignorant.” - Harlan Ellison_
-
-<img src="https://i.redd.it/zr90lvihdw271.png" /> | [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dudzzle&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=dudzzle&redirect=true)
