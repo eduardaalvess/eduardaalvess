@@ -51,8 +51,6 @@ _From an early age I always had the pleasure of studying. Books have always been
 
 ## ![Eduarda's GitHub stats](https://github-readme-stats.vercel.app/api?username=saintravi&show_icons=true&theme=gotham) [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saintravi&layout=compact&theme=gotham)](https://github.com/saintravi/github-readme-stats)
 
-## Listen with me 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dudzzle&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile) 
 
 ## MBTI Profile 🔎
 
@@ -61,4 +59,4 @@ _From an early age I always had the pleasure of studying. Books have always been
 You are entitled to your informed opinion.                       
 No one is entitled to be ignorant.” - Harlan Ellison_
 
-<img src="https://i.redd.it/zr90lvihdw271.png" /> 
+<img src="https://i.redd.it/zr90lvihdw271.png" /> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dudzzle&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile) 
