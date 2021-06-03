@@ -52,7 +52,7 @@ _From an early age I always had the pleasure of studying. Books have always been
 ## ![Eduarda's GitHub stats](https://github-readme-stats.vercel.app/api?username=saintravi&show_icons=true&theme=gotham) [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saintravi&layout=compact&theme=gotham)](https://github.com/saintravi/github-readme-stats)
 
 
-## MBTI Profile 🔎
+## About me 🔎
 
 ### INTJ-A, Architect. 
 > _“You are not entitled to your opinion. 
