@@ -25,18 +25,17 @@
  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />  
  <img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" /> <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" /> 
  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-
-
-### _GitHub Stats_ ⚡️
-
-## ![Eduarda's GitHub stats](https://github-readme-stats.vercel.app/api?username=saintravi&show_icons=true&theme=gotham) [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saintravi&layout=compact&theme=gotham)](https://github.com/saintravi/github-readme-stats)
-
-
-
-### Projects 🛠
+ 
+ ### Projects 🛠
 
 Languages | Project Name | Description 
 ---------- | --------------- | ----------
 HTML5, CSS3, JavaScript | [Snake Game](https://github.com/saintravi/snakegame) | Recreating the classic Snake Game. Project developed during the Bootcamp HTML Developer from Digital Innovation One.
 HTML5, CSS3 | [Instagram Page](https://github.com/saintravi/instagram-inicial) | Cloning Instagram page. Project developed during the Bootcamp HTML Developer from Digital Innovation One.
 JavaScript, HTML5, CSS3 | [Netflix](https://github.com/saintravi/netflix-layout) | Clone of Netflix page, using Flexbox and JQuery.
+
+
+
+### _GitHub Stats_ ⚡️
+
+## ![Eduarda's GitHub stats](https://github-readme-stats.vercel.app/api?username=saintravi&show_icons=true&theme=gotham) [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saintravi&layout=compact&theme=gotham)](https://github.com/saintravi/github-readme-stats)
