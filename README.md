@@ -33,9 +33,8 @@
 
 
 
- Projetos
-:-------------------------------------------:
----------- | --------------- | ----------
+ --------- | Projetos        | ----------
+---------- | :-------------: | ----------
 Linguagens | Nome do Projeto | Descrição 
 ---------- | --------------- | ----------
 HTML5, CSS3, JavaScript | [Snake Game](https://github.com/saintravi/snakegame) | Recriando o clássico jogo da cobrinha. Projeto realizado durante o Bootcamp HTML Developer da Digital Innovation One.
