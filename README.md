@@ -33,10 +33,9 @@
 
 
 
-### Projetos
+### Projects 🛠
 
----------- | :-------------: | ----------
-Linguagens | Nome do Projeto | Descrição 
+Languages | Project Name | Description 
 ---------- | --------------- | ----------
 HTML5, CSS3, JavaScript | [Snake Game](https://github.com/saintravi/snakegame) | Recreating the classic Snake Game. Project developed during the Bootcamp HTML Developer from Digital Innovation One.
 HTML5, CSS3 | [Instagram Page](https://github.com/saintravi/instagram-inicial) | Cloning Instagram page. Project developed during the Bootcamp HTML Developer from Digital Innovation One.
