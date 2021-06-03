@@ -59,4 +59,4 @@ _From an early age I always had the pleasure of studying. Books have always been
 You are entitled to your informed opinion.                       
 No one is entitled to be ignorant.” - Harlan Ellison_
 
-<img src="https://i.redd.it/zr90lvihdw271.png" /> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dudzzle&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile) 
+<img src="https://i.redd.it/zr90lvihdw271.png" /> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dudzzle&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=dudzzle&redirect=true)
