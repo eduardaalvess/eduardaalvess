@@ -1,6 +1,6 @@
-## **_Welcome to my GitHub page_** 👩🏾‍💻
+<img src="https://i.redd.it/m6s5eytp33371.png" />
 
- Hi! I'm Eduarda, I study Science Computer at UFRPE. You can find me [here](https://linktr.ee/eduarda.alves).
+ ##### Hi! I'm Eduarda, I study Science Computer at UFRPE. You can find me [here](https://linktr.ee/eduarda.alves).
 
 ## Tecnologies and Tools 🖥
 
