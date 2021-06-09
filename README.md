@@ -29,7 +29,7 @@
  
  
 <p align="center"> 
- <img src="https://i.redd.it/4ojtvhexva471.png" />
+ <img src="https://i.redd.it/r4ncia1twa471.png" />
 
 Languages | Project | Description 
 ---------- | --------------- | ----------
