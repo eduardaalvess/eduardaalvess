@@ -37,7 +37,7 @@ HTML5, CSS3 | [Instagram Page](https://github.com/saintravi/instagram-inicial) |
 JavaScript, HTML5, CSS3 | [Netflix](https://github.com/saintravi/netflix-layout) | Clone of Netflix page, using Flexbox and JQuery.
 </p>
 
-### _GitHub Stats_ ⚡️
+<img src="https://i.redd.it/lexx3c0bkb471.png" />
 
 ## ![Eduarda's GitHub stats](https://github-readme-stats.vercel.app/api?username=saintravi&show_icons=true&theme=gotham) [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saintravi&layout=compact&theme=gotham)](https://github.com/saintravi/github-readme-stats)
 
