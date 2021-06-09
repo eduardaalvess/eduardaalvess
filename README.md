@@ -1,7 +1,7 @@
 <img src="https://i.redd.it/m6s5eytp33371.png" />
 
-### _Hi there!_ <img src="https://ib.canaltech.com.br/361132.gif" /> 
-### _I'm Eduarda, I study Computer Science at UFRPE. You can find me [here](https://linktr.ee/eduarda.alves)._
+### _Hi there!_ 👋🏽
+### _I'm Eduarda. I'm a Computer Science student at UFRPE. You can find me [here](https://linktr.ee/eduarda.alves)._
 
 ### _Tecnologies and Tools_ 🖥
 
@@ -40,3 +40,7 @@ JavaScript, HTML5, CSS3 | [Netflix](https://github.com/saintravi/netflix-layout)
 ### _GitHub Stats_ ⚡️
 
 ## ![Eduarda's GitHub stats](https://github-readme-stats.vercel.app/api?username=saintravi&show_icons=true&theme=gotham) [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saintravi&layout=compact&theme=gotham)](https://github.com/saintravi/github-readme-stats)
+
+#### That's all folks!!
+
+<img src="https://ib.canaltech.com.br/361132.gif" /> 
