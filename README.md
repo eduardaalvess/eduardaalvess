@@ -29,7 +29,7 @@
  
  
 <p align="center"> 
- ### Projects 🛠
+ _**Projects**_ 🛠
 
 Languages | Project | Description 
 ---------- | --------------- | ----------
