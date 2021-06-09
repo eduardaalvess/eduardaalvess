@@ -4,7 +4,7 @@
 
 #### You can find me [here](https://linktr.ee/eduarda.alves).
 
-### _Technologies and Tools_ 🖥
+<img src="https://i.redd.it/lays7htxab471.png" />
 
 <img src="https://img.shields.io/badge/{HTML5}-{000000}?style=for-the-badge&logo={HTML5}&logoColor=white" /> 
 
