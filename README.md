@@ -1,4 +1,4 @@
-<img src="https://i.redd.it/m6s5eytp33371.png" />
+<img src="https://i.redd.it/3dxcy8y9xa471.png" />
 
 ### _Hi there!_ 👋🏽
 ### _I'm Eduarda. I'm a Computer Science student at UFRPE. You can find me [here](https://linktr.ee/eduarda.alves)._
