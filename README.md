@@ -27,7 +27,10 @@
  <img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" /> <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" /> 
  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
  
- ### Projects 🛠
+ 
+<p align="center">
+
+### Projects 🛠
 
 Languages | Project | Description 
 ---------- | --------------- | ----------
@@ -35,17 +38,13 @@ HTML5, CSS3, JavaScript | [Snake Game](https://github.com/saintravi/snakegame) |
 HTML5, CSS3 | [Instagram Page](https://github.com/saintravi/instagram-inicial) | Cloning Instagram page. Project developed during the Bootcamp HTML Developer from Digital Innovation One.
 JavaScript, HTML5, CSS3 | [Netflix](https://github.com/saintravi/netflix-layout) | Clone of Netflix page, using Flexbox and JQuery.
 
-
+</p>
 
 ### _GitHub Stats_ ⚡️
 
 ## ![Eduarda's GitHub stats](https://github-readme-stats.vercel.app/api?username=saintravi&show_icons=true&theme=gotham) [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saintravi&layout=compact&theme=gotham)](https://github.com/saintravi/github-readme-stats)
 
 #### That's all folks!!
-
-<div style="text-align:center">
- <img src="https://ib.canaltech.com.br/361132.gif" />
-</div>
 
 <p align="center">
   <img src="https://ib.canaltech.com.br/361132.gif" />
