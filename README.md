@@ -1,6 +1,6 @@
 <img src="https://i.redd.it/m6s5eytp33371.png" />
 
-### _Hi there! <img src="https://www.reddit.com/user/saintvkilla/comments/nw45bu/hi_there/?utm_source=share&utm_medium=web2x&context=3" /> I'm Eduarda, I study Computer Science at UFRPE. You can find me [here](https://linktr.ee/eduarda.alves)._
+### _Hi there! [ ](https://www.reddit.com/user/saintvkilla/comments/nw45bu/hi_there/?utm_source=share&utm_medium=web2x&context=3) I'm Eduarda, I study Computer Science at UFRPE. You can find me [here](https://linktr.ee/eduarda.alves)._
 
 ### _Tecnologies and Tools_ 🖥
 
