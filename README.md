@@ -1,9 +1,9 @@
 <img src="https://i.redd.it/c02llkh64b471.png" />
 
-### _Hi there!_ 👋🏽
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&center=true&vCenter=true&lines=Hi+there!+)](https://git.io/typing-svg)
 ### _I'm Eduarda. I'm a Computer Science student at UFRPE. You can find me [here](https://linktr.ee/eduarda.alves)._
 
-### _Languages_ 🖥
+### _Technologies and Tools_ 🖥
 
 <img src="https://img.shields.io/badge/{HTML5}-{000000}?style=for-the-badge&logo={HTML5}&logoColor=white" /> 
 
