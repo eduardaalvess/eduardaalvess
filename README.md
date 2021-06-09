@@ -43,4 +43,4 @@ JavaScript, HTML5, CSS3 | [Netflix](https://github.com/saintravi/netflix-layout)
 
 #### That's all folks!!
 
-<img src="https://ib.canaltech.com.br/361132.gif" /> 
+<div style="text-align:center"><img src="https://ib.canaltech.com.br/361132.gif" /></div>
