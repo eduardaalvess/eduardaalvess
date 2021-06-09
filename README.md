@@ -1,6 +1,6 @@
 <img src="https://i.redd.it/c02llkh64b471.png" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&lines=Hi+there!+;I'm+Eduarda.+I'm+a+Computer+Science+student+at+UFRPE.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&lines=Hi+there!+;I'm+Eduarda.)](https://git.io/typing-svg)
 
 #### You can find me [here](https://linktr.ee/eduarda.alves).
 
