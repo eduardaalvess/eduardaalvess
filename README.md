@@ -3,16 +3,9 @@
 ### _Hi there!_ 👋🏽
 ### _I'm Eduarda. I'm a Computer Science student at UFRPE. You can find me [here](https://linktr.ee/eduarda.alves)._
 
-### _Tecnologies and Tools_ 🖥
+### _Languages_ 🖥
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/simpleicons.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/simpleicons.svg" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> 
- <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
- <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white" /> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" /> 
- <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> 
- <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" /> 
+<img src="https://img.shields.io/badge/{HTML5}-{000000}?style=for-the-badge&logo={HTML5}&logoColor=white" /> 
 
 ### _I'm Currently Learning_ ⏳ 
 
