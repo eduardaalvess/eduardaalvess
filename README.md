@@ -1,6 +1,6 @@
 <img src="https://i.redd.it/m6s5eytp33371.png" />
 
-### _Hi there!_ <img src="https://preview.redd.it/qp8fmishka471.gif?format=mp4&s=654275258a1c5a87eb60d0648627158572bb7d96" /> 
+### _Hi there!_ <img src="https://ib.canaltech.com.br/361132.gif" /> 
 ### _I'm Eduarda, I study Computer Science at UFRPE. You can find me [here](https://linktr.ee/eduarda.alves)._
 
 ### _Tecnologies and Tools_ 🖥
