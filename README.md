@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&lines=Hi+there!+;I'm+Eduarda.)](https://git.io/typing-svg)
 
-#### You can find me [here](https://linktr.ee/eduarda.alves).
 
 <img src="https://i.redd.it/lays7htxab471.png" />
 
