@@ -41,7 +41,7 @@ JavaScript, HTML5, CSS3 | [Netflix](https://github.com/saintravi/netflix-layout)
 <img src="https://i.redd.it/3rxyeuzupb471.png" />
 
 * [LinkedIn](https://www.linkedin.com/in/eduardaalves/)
-* [Email](dudah4@gmail.com)
+* [Email](mailto:dudah4@gmail.com)
 * [Instagram](https://www.instagram.com/saintvkilla/)
 * [Twitter](https://twitter.com/saintvkill)
 * [Discord](https://discord.gg/Xapvrqjg)
