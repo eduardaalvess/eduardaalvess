@@ -1,3 +1,5 @@
+[//]: <> (This is also a comment.)
+
 <img src="https://i.redd.it/c02llkh64b471.png" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&lines=Hi+there!+;I'm+Eduarda.)](https://git.io/typing-svg)
