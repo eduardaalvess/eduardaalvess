@@ -42,7 +42,7 @@ JavaScript, HTML5, CSS3 | [Netflix](https://github.com/saintravi/netflix-layout)
 
 <img src="https://i.redd.it/lexx3c0bkb471.png" />
 
-## ![Eduarda's GitHub stats](https://github-readme-stats.vercel.app/api?username=saintravi&show_icons=true&theme=gotham) [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saintravi&layout=compact&theme=gotham)](https://github.com/saintravi/github-readme-stats)
+## ![Eduarda's GitHub stats](https://github-readme-stats.vercel.app/api?username=seduardaalvess&show_icons=true&theme=gotham) [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaalvess&layout=compact&theme=gotham)](https://github.com/eduardaalvess/github-readme-stats)
 
 [//]: <> (Contacts)
 
