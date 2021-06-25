@@ -34,7 +34,7 @@
 Languages | Project | Description 
 ---------- | --------------- | ----------
 HTML5, CSS3, JavaScript | [Snake Game](https://github.com/saintravi/snakegame) | Recreating the classic Snake Game. Project developed during the Bootcamp HTML Developer from Digital Innovation One.
-HTML5, CSS3 | [Instagram Page](https://github.com/saintravi/instagram-inicial) | Cloning Instagram page. Project developed during the Bootcamp HTML Developer from Digital Innovation One.
+HTML5, CSS3 | [Instagram Page](https://github.com/saintravi/instagram-inicial) | Cloning Instagram page. Project developed during the Bootcamp HTML Web Developer from Digital Innovation One.
 JavaScript, HTML5, CSS3 | [Netflix](https://github.com/saintravi/netflix-layout) | Clone of Netflix page, using Flexbox and JQuery.
 </p>
 
