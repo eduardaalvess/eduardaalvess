@@ -1,6 +1,6 @@
 [//]: <> (Hi there)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=25&center=true&vCenter=true&lines=Hi+there!;I'm+Eduarda.;I'm+a+Computer+Science+Student;I'm+currently+learning;and+working+with;Java%2C+HTML5%2C+CSS3;MySQL%2C+JavaScript;C%23+and+others;You+can+see+some+of;my+projects+bellow)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=25&center=true&vCenter=true&lines=Hi+there!;I'm+Eduarda.;I'm+a+student;of+Computer+Science;I'm+currently+learning;and+working+with;Java%2C+HTML5%2C+CSS3;MySQL%2C+JavaScript;C%23+and+others;You+can+see+some+of;my+projects+bellow)](https://git.io/typing-svg)
 
 
  [//]: <> (Projects)
@@ -15,13 +15,9 @@ JavaScript, HTML5, CSS3 | [Netflix](https://github.com/saintravi/netflix-layout)
 
 [//]: <> (GitHub Stats)
 
-<img src="https://i.redd.it/lexx3c0bkb471.png" />
-
 ## ![Eduarda's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardaalvess&show_icons=true&theme=gotham) [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaalvess&layout=compact&theme=gotham)](https://github.com/eduardaalvess/github-readme-stats)
 
 [//]: <> (Contacts)
-
-<img src="https://i.redd.it/3rxyeuzupb471.png" />
 
 * [LinkedIn](https://www.linkedin.com/in/eduardaalves/)
 * [Email](mailto:dudah4@gmail.com)
