@@ -4,8 +4,7 @@
 
 
  [//]: <> (Projects)
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=25&center=true&vCenter=true&lines=My+Projects)](https://git.io/typing-svg)
+
 
 Languages | Project | Description 
 ---------- | --------------- | ----------
