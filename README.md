@@ -1,6 +1,6 @@
 [//]: <> (Hi there)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=25&center=true&vCenter=true&lines=Hi+there!;I'm+Eduarda.;I'm+a+student;of+Computer+Science;I'm+currently+learning;and+working+with;Java%2C+HTML5%2C+CSS3;MySQL%2C+JavaScript;C%23+and+others;You+can+see+some+of;my+projects+bellow)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=25&center=true&vCenter=true&lines=Hi+there!;I'm+Eduarda.;I'm+a+student;of+Computer+Science;I'm+currently+learning;and+working+with;Java%2C+HTML5%2C+CSS3;MySQL%2C+JavaScript;C%23+and+others;You+can+see+some+of;my+projects+bellow.)](https://git.io/typing-svg)
 
 
  [//]: <> (Projects)
