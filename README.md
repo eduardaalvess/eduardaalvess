@@ -19,12 +19,7 @@ JavaScript, HTML5, CSS3 | [Netflix](https://github.com/saintravi/netflix-layout)
 
 [//]: <> (Contacts)
 
-* [LinkedIn](https://www.linkedin.com/in/eduardaalves/)
-* [Email](mailto:dudah4@gmail.com)
-* [Instagram](https://www.instagram.com/saintvkilla/)
-* [Twitter](https://twitter.com/saintvkill)
-* [Discord](https://discord.gg/Xapvrqjg)
-* [Facebook](https://www.facebook.com/dudoca.a.silva/)
+[Contact](https://linktr.ee/eduarda.alves)
 
 [//]: <> (End)
 
