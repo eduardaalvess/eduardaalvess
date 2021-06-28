@@ -19,15 +19,11 @@ JavaScript, HTML5, CSS3 | [Netflix](https://github.com/saintravi/netflix-layout)
 
 [//]: <> (Contacts)
 
-<p aligh="center">
- [Contact](https://linktr.ee/eduarda.alves)
-</p>
  
 [//]: <> (End)
 
 ### That's All Folks!
-
-<p align="center"> 
+<p align="center">
   <img src="https://ib.canaltech.com.br/361132.gif" />
 </p>
 
