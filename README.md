@@ -19,7 +19,7 @@ JavaScript, HTML5, CSS3 | [Netflix](https://github.com/saintravi/netflix-layout)
 
 [//]: <> (Contacts)
 
-<center> [Contact me](https://linktr.ee/eduarda.alves) </center>
+[Contact me](https://linktr.ee/eduarda.alves)
 
 
 [//]: <> (End)
