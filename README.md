@@ -15,7 +15,7 @@ JavaScript, HTML5, CSS3 | [Netflix](https://github.com/saintravi/netflix-layout)
 
 [//]: <> (GitHub Stats)
 
-## ![Eduarda's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardaalvess&show_icons=true&theme=gotham) [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaalvess&layout=compact&theme=gotham)](https://github.com/eduardaalvess/github-readme-stats)
+## ![Eduarda's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardaalvess&show_icons=true&layout=compact&theme=gotham) [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaalvess&layout=compact&theme=gotham)](https://github.com/eduardaalvess/github-readme-stats)
 
 [//]: <> (Contacts)
 
