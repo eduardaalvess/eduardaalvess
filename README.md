@@ -25,7 +25,7 @@ Languages | Project | Description
 HTML5, CSS3, JavaScript | [Snake Game](https://github.com/eduardaalvess/snakegame) | Recreating the classic Snake Game. Project developed during the Bootcamp HTML Developer from Digital Innovation One.
 HTML5, CSS3 | [Instagram Page](https://github.com/eduardaalvess/instagram-inicial) | Clone of Instagram page. Project developed during the Bootcamp HTML Web Developer from Digital Innovation One.
 JavaScript, HTML5, CSS3 | [Netflix](https://github.com/eduardaalvess/netflix-layout) | Clone of Netflix page, using Flexbox and JQuery.
-Java | [HORUS](https://github.com/eduardaalvess/horus) | Using concepts in JavaFX.
+Java | [HORUS](https://github.com/eduardaalvess/horus) | Graphical User Interface: JavaFX.
 </p>
 
 [//]: <> (GitHub Stats)
