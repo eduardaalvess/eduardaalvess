@@ -26,7 +26,7 @@ HTML5, CSS3, JavaScript | [Snake Game](https://github.com/eduardaalvess/snakegam
 HTML5, CSS3 | [Instagram Page](https://github.com/eduardaalvess/instagram-inicial) | Clone of Instagram page. Project developed during the Bootcamp HTML Web Developer from Digital Innovation One.
 JavaScript, HTML5, CSS3 | [Netflix](https://github.com/eduardaalvess/netflix-layout) | Clone of Netflix page, using Flexbox and JQuery.
 Java | [HORUS](https://github.com/eduardaalvess/horus) | A system with register and login, connection with MySQL and animations using techniques with KeyFrame. GUI: JavaFX.
-Java | [Stopwatch](https://github.com/eduardaalvess/stopwatch) | A simple stopwatch using GUI Swing, with pause stop and reset.
+Java | [Stopwatch](https://github.com/eduardaalvess/stopwatch) | A simple stopwatch using GUI Swing, with pause, stop and reset.
 </p>
 
 [//]: <> (GitHub Stats)
