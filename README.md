@@ -6,7 +6,7 @@
 
 💛 I really love cats 🐱, books 📚 and Beyoncé 🎤
 
-🍭 Fun fact: I spend all day listening to rain noise on Spotify. 
+🍭 Fun fact: I spend all day listening to rain sounds on Spotify. 
 
 ### Skills⚡️ 
 
