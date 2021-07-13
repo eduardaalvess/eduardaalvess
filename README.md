@@ -6,6 +6,8 @@
 
 💛 I really love cats 🐱, books 📚 and Beyoncé 🎤
 
+🪐 I love read about space, I'm a big fan of Neil deGrasse Tyson 🔭
+
 🍭 Fun fact: I spend all day listening to rain sounds on Spotify. 
 
 ### Skills⚡️ 
@@ -30,6 +32,8 @@ Java | [Stopwatch](https://github.com/eduardaalvess/stopwatch) | A simple stopwa
 </p>
 
 [//]: <> (GitHub Stats)
+
+Git Stats ⭐️
 
 ## ![Eduarda's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardaalvess&show_icons=true&layout=compact&theme=gotham) [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaalvess&layout=compact&theme=gotham)](https://github.com/eduardaalvess/github-readme-stats)
 
