@@ -33,7 +33,7 @@ Java | [Stopwatch](https://github.com/eduardaalvess/stopwatch) | A simple stopwa
 
 [//]: <> (GitHub Stats)
 
-Git Stats ⭐️
+### Git Stats ⭐️
 
 ## ![Eduarda's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardaalvess&show_icons=true&layout=compact&theme=gotham) [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaalvess&layout=compact&theme=gotham)](https://github.com/eduardaalvess/github-readme-stats)
 
