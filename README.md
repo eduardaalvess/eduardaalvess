@@ -53,5 +53,5 @@ Java | [Stopwatch](https://github.com/eduardaalvess/stopwatch) | A simple stopwa
 
 [//]: <> (End)
 
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=eduardaalvess&repo=github-visitors-badge&countColorcountColor&countColor=%000000)
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=eduardaalvess&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 
