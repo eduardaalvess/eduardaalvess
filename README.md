@@ -34,11 +34,12 @@
 
 Languages | Project | Description 
 ---------- | --------------- | ----------
-HTML5, CSS3, JavaScript | [Snake Game](https://github.com/eduardaalvess/snakegame) | Recreating the classic Snake Game. Project developed during the Bootcamp HTML Developer from Digital Innovation One.
-HTML5, CSS3 | [Instagram Page](https://github.com/eduardaalvess/instagram-inicial) | Clone of Instagram page. Project developed during the Bootcamp HTML Web Developer from Digital Innovation One.
-JavaScript, HTML5, CSS3 | [Netflix](https://github.com/eduardaalvess/netflix-layout) | Clone of Netflix page, using Flexbox and JQuery.
-Java | [HORUS](https://github.com/eduardaalvess/horus) | A system with register and login, connection with MySQL and animations using techniques with KeyFrame. GUI: JavaFX.
-Java | [Stopwatch](https://github.com/eduardaalvess/stopwatch) | A simple stopwatch using GUI Swing, with pause, stop and reset.
+HTML5, CSS3, JavaScript | [Snake Game](https://github.com/eduardaalvess/snakegame) | Reacriando o famoso jogo da cobrinha. Projeto desenvolvido durante o Bootcamp HTML Developer da Digital Innovation One.
+HTML5, CSS3 | [Instagram Page](https://github.com/eduardaalvess/instagram-inicial) | Clonando a página de login do Instagram Web com responsividade. Projeto desenvolvido durante o Bootcamp HTML Web Developer da Digital Innovation One.
+JavaScript, HTML5, CSS3 | [Netflix](https://github.com/eduardaalvess/netflix-layout) | Clone da página inicial do NetFlix usando jQuery. Projeto desenvolvido durante o Bootcamp HTML Web Developer da Digital Innovation One.
+Java | [HORUS](https://github.com/eduardaalvess/horus) | GUI: JavaFX. Projeto desenvolvido durante a disciplina de Programação Orientada a Objetos. Possui conexão com banco de dados relacional (MySQL), guardando os dados do usuário informados durante o cadastro. O sistema é inspirado no aplicativo Forest e utiliza tecnicas de animação da biblioteca FX com KeyFrame.
+Java | [Stopwatch](https://github.com/eduardaalvess/stopwatch) | GUI: Swing. Um cronometro simples com start, pause e reset para exercitar a biblioteca java.time do Java.
+Java | [Ruralino e seus Amigos](https://github.com/eduardaalvess/ruralino) | GUI: JavaFX. Projeto desenvolvido durante a disciplina de Programação Orientada a Objetos. O sistema é responsável pelo gerenciamento de um amigo secreto entre Ruralino e seus amigos. O sistema é responsável por cadastrar os amigos, grupos e presentes, adicionar todos eles e realizar o sorteio.
 </p>
 
 [//]: <> (GitHub Stats)
