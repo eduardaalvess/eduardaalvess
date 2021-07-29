@@ -1,7 +1,6 @@
 ### Hi there! I'm Eduarda Alves.
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=eduardaalvess&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=eduardaalvess&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 
 👩🏽‍🎓 I'm currently studying Computer Science at UFRPE.
 
