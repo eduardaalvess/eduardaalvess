@@ -1,6 +1,5 @@
 ### Hi there! I'm Eduarda Alves.
 
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=eduardaalvess&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 
 👩🏽‍🎓 I'm currently studying Computer Science at UFRPE.
 
@@ -61,12 +60,14 @@ Java | [Ruralino e seus Amigos](https://github.com/eduardaalvess/ruralino) | GUI
  <a href="https://www.instagram.com/saintvkilla/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 
-[//]: <> (End)
-
 ### That's All Folks! 🏄🏽‍♀
 <p align="center">
   <img src="https://ib.canaltech.com.br/361132.gif" />
 </p>
+
+[//]: <> (Visitantes)
+
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=eduardaalvess&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 
 [//]: <> (End)
 
