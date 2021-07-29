@@ -11,6 +11,7 @@
 
 🍭 Fun fact: I spend all day listening to rain sounds on Spotify. 
 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 ### Skills 💡
 
