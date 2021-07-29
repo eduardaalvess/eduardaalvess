@@ -1,5 +1,8 @@
 ### Hi there! I'm Eduarda Alves.
 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=eduardaalvess&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
+
 👩🏽‍🎓 I'm currently studying Computer Science at UFRPE.
 
 💡 I'm interested in all things of data 📊, front and back end developing 💻
@@ -54,7 +57,9 @@ Java | [Ruralino e seus Amigos](https://github.com/eduardaalvess/ruralino) | GUI
 
 ### How to reach me 📫
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )]( https://www.linkedin.com/in/eduardaalves/) <a href="mailto:dudah4@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/saintvkilla)
+<a href = "mailto:dudah4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/eduardaalves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.instagram.com/saintvkilla/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 
 [//]: <> (End)
@@ -66,7 +71,5 @@ Java | [Ruralino e seus Amigos](https://github.com/eduardaalvess/ruralino) | GUI
 
 [//]: <> (End)
 
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=eduardaalvess&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
