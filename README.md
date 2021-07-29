@@ -68,3 +68,5 @@ Java | [Ruralino e seus Amigos](https://github.com/eduardaalvess/ruralino) | GUI
 
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=eduardaalvess&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
