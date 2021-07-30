@@ -45,6 +45,7 @@ Java | [HORUS](https://github.com/eduardaalvess/horus) | GUI: JavaFX. Projeto de
 Java | [Stopwatch](https://github.com/eduardaalvess/stopwatch) | GUI: Swing. Um cronometro simples com start, pause e reset para exercitar a biblioteca java.time do Java.
 Java | [Ruralino e seus Amigos](https://github.com/eduardaalvess/ruralino) | GUI: JavaFX. Projeto desenvolvido durante a disciplina de Programação Orientada a Objetos. O sistema é responsável pelo gerenciamento de um amigo secreto entre Ruralino e seus amigos. O sistema é responsável por cadastrar os amigos, grupos e presentes, adicionar todos eles e realizar o sorteio.
 Java | [Clock](https://github.com/eduardaalvess/simpleclock) | GUI: Swing. Algoritmos bem simples de relógio em Java usando Swing. Esse projeto foi desenvolvido com o intuito de aprimorar minhas habilidades com a biblioteca java.time do Java. 
+JavaScript, CSS3, HTML5 | [Genius](https://github.com/eduardaalvess/Genius) | Nesse projeto, o desafio é criar um jogo Gênesis utilizando apenas HTML, CSS e Javascript de forma introdutória, sendo o principal conceito, CSS Grid, manipulação de Array e Arrow Functions. Projeto desenvolvido durante o Bootcamp JavaScript Game Developer da Digital Innovation One.
 </p>
 
 [//]: <> (GitHub Stats)
