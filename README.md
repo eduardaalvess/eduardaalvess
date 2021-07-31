@@ -52,7 +52,8 @@ JavaScript, CSS3, HTML5 | [Genius](https://github.com/eduardaalvess/Genius) | Ne
 
 ### Git Stats ⭐️
 
-## ![Eduarda's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardaalvess&show_icons=true&layout=compact&theme=gotham) [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaalvess&layout=compact&theme=gotham)](https://github.com/eduardaalvess/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardaalvess&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaalvess&layout=compact&langs_count=7&theme=dracula"/>
 
 [//]: <> (Contacts)
 
