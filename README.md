@@ -15,7 +15,7 @@
 
 </div>
   
-  ![Snake animation](https://github.com/eduardaalvess/eduardaalvess/blob/main/snake.yml)
+  ![Snake animation](https://github.com/eduardaalvess/eduardaalvess/blob/main/github-contribution-grid-snake.svg)
    
   
 ### Skills 💡
