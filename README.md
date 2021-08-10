@@ -58,6 +58,7 @@ Java | [Ruralino e seus Amigos](https://github.com/eduardaalvess/ruralino) | GUI
 Java | [Clock](https://github.com/eduardaalvess/simpleclock) | GUI: Swing. Algoritmos bem simples de relógio em Java usando Swing. Esse projeto foi desenvolvido com o intuito de aprimorar minhas habilidades com a biblioteca java.time do Java. 
 JavaScript, CSS3, HTML5 | [Genius](https://github.com/eduardaalvess/Genius) | Nesse projeto, o desafio é criar um jogo Gênesis utilizando apenas HTML, CSS e Javascript de forma introdutória, sendo o principal conceito, CSS Grid, manipulação de Array e Arrow Functions. Desenvolvido durante o Bootcamp JavaScript Game Developer da Digital Innovation One com a orientação da [Gabriela Pinheiro.](https://github.com/SpruceGabriela)
 HTML5, CSS3, JavaScript, Bootstrap | [Portfólio](https://github.com/eduardaalvess/portfolio) | Portfólio que reúne alguns projetos e informações de contato.
+Python | [Jogo da Velha](https://github.com/eduardaalvess/TicTacToeInPython) | Nesse projeto o desafio é criar um jogo da velha utilizando Python. Projeto desenvolvido com o popósito de exercitar conhecimentos básicos em Python. Desenvolvido sob a orientação do [Bro Code](https://www.youtube.com/channel/UC4SVo0Ue36XCfOyb5Lh1viQ)
 </p>
 
 [//]: <> (GitHub Stats)
