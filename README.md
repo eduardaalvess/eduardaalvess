@@ -82,7 +82,7 @@ Python | [Jogo da Velha](https://github.com/eduardaalvess/TicTacToeInPython) | N
 
 <div>  
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardaalvess&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaalvess&layout=compact&langs_count=10&theme=dracula"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardaalvess&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaalvess&langs_count=8&theme=dracula"/> 
 
 </div>  
 
