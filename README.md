@@ -34,29 +34,6 @@
   
   
 </div>  
-
-### Learning 🌱
-
-<div>
-  
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
-
-
-</div>
-  
-### Interested 📡
-
-<div>  
-  
-  <img align="center" alt="Lavarel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
-  <img align="center" alt="SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-
-  
-</div>
   
 ### Projects 🛠
 
@@ -75,6 +52,8 @@ Java | [Clock](https://github.com/eduardaalvess/simpleclock) | GUI: Swing. Algor
 JavaScript, CSS3, HTML5 | [Genius](https://github.com/eduardaalvess/Genius) | Nesse projeto, o desafio é criar um jogo Gênesis utilizando apenas HTML, CSS e Javascript de forma introdutória, sendo o principal conceito, CSS Grid, manipulação de Array e Arrow Functions. Desenvolvido durante o Bootcamp JavaScript Game Developer da Digital Innovation One com a orientação da [Gabriela Pinheiro.](https://github.com/SpruceGabriela)
 Bootstrap, HTML5, CSS3, JavaScript, SCSS | [Portfólio](https://github.com/eduardaalvess/portfolio) | Portfólio que reúne alguns projetos, informações de contato e CV.
 Python | [Jogo da Velha](https://github.com/eduardaalvess/TicTacToeInPython) | Nesse projeto o desafio é criar um jogo da velha utilizando Python. Projeto desenvolvido com o propósito de exercitar conhecimentos básicos em Python. Desenvolvido sob a orientação do [Bro Code](https://www.youtube.com/channel/UC4SVo0Ue36XCfOyb5Lh1viQ)
+JavaScript, CSS3, HTML5 | [Dino](https://github.com/eduardaalvess/Dino) | Neste projeto o desafio é criar uma cópia do jogo do dinossauro, famoso no Chrome por nos entreter quando estamos sem conexão. Nele utilizei HTML, CSS e JavaScript, abordando de maneira simples diversos conceitos introdutórios importantes para programação na web como tags básicas de HTML, manipulação de eventos, funções e manipulação de elementos HTML usando JavaScript, estilização e animações básicas com CSS. Projeto Desenvolvido na plataforma DIO durante o bootcamp JavaScript Game Developer.
+C | [Donut] | A primeira vez que vi este projeto ele estava em Python, fiz algumas adaptações para C, e o resultado foi ótimo. Esse projeto foi desenvolvido como um desafio pessoal.
 </p>
 
 [//]: <> (GitHub Stats)
