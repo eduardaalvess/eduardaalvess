@@ -54,6 +54,7 @@ Bootstrap, HTML5, CSS3, JavaScript, SCSS | [Portfólio](https://github.com/eduar
 Python | [Jogo da Velha](https://github.com/eduardaalvess/TicTacToeInPython) | Nesse projeto o desafio é criar um jogo da velha utilizando Python. Projeto desenvolvido com o propósito de exercitar conhecimentos básicos em Python. Desenvolvido sob a orientação do [Bro Code](https://www.youtube.com/channel/UC4SVo0Ue36XCfOyb5Lh1viQ)
 JavaScript, CSS3, HTML5 | [Dino](https://github.com/eduardaalvess/Dino) | Neste projeto o desafio é criar uma cópia do jogo do dinossauro, famoso no Chrome por nos entreter quando estamos sem conexão. Nele utilizei HTML, CSS e JavaScript, abordando de maneira simples diversos conceitos introdutórios importantes para programação na web como tags básicas de HTML, manipulação de eventos, funções e manipulação de elementos HTML usando JavaScript, estilização e animações básicas com CSS. Projeto Desenvolvido na plataforma DIO durante o bootcamp JavaScript Game Developer.
 C | [Donut](https://github.com/eduardaalvess/Donut) | A primeira vez que vi este projeto ele estava em Python, fiz algumas adaptações para C, e o resultado foi ótimo. Esse projeto foi desenvolvido como um desafio pessoal.
+HTML5, CSS3, SASS, Bootstrap, JavaScript | [Tech Jobs](https://github.com/eduardaalvess/TechJobs) | Esse projeto nasceu durante o [Treinamento FullStack da Gama Academy](https://github.com/eduardaalvess/StartTech-GamaAcademy), nele, fomos desafiados a fazer uma landing page para uma empresa especializadas em vagas de emprego. 
 </p>
 
 [//]: <> (GitHub Stats)
