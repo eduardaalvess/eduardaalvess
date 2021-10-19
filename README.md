@@ -7,7 +7,7 @@
 
 💡 I'm interested in all things of data 📊, front and back end developing 💻
 
-💛 I really love cats 🐱, books 📚 and Beyoncé 🎤
+💛 I really love cats 🐱 , dogs 🐶, books 📚 and Beyoncé 🎤
 
 🪐 I love read about space, I'm a big fan of Neil deGrasse Tyson 🔭
 
