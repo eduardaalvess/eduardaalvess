@@ -1,4 +1,4 @@
-### Hi there! I'm Eduarda Alves.
+### Hi there! I'm Eduarda.
 
 
 <div>
