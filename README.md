@@ -1,5 +1,6 @@
+<p align="center">
 ### Hi there! I'm Eduarda.
-
+</p>
 
 <div>
 
