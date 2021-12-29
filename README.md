@@ -1,5 +1,5 @@
 <p align="center">
-### Hi there! I'm Eduarda.
+ Hi there! I'm Eduarda.
 </p>
 
 <div>
