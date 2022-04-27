@@ -1,6 +1,4 @@
-<p align="center">
-## Hi there! I'm Eduarda.
-</p>
+## Hi there, I'm Eduarda
 
 <div>
 
