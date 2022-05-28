@@ -4,7 +4,7 @@
 
 👩🏽‍🎓 I'm currently studying Computer Science at UFRPE.
 
-💡 I'm interested in all things of data 📊, front and back end developing 💻
+💡 I'm interested in all things of data 📊 and back end developing 💻
 
 💛 I really love cats 🐱 , dogs 🐶, books 📚 and Beyoncé 🎤
 
