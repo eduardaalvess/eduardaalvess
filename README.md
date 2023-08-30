@@ -21,7 +21,7 @@
 
 ### Git Stats 
 
-![Eduarda's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardaalvess&show_icons=true&theme=transparent)
+![Eduarda's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardaalvess&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaalvess&layout=donut)](https://github.com/eduardaalvess/github-readme-stats)
 
 [//]: <> (Contacts)
 
