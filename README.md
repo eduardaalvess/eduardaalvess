@@ -7,7 +7,7 @@
 
 ## Skills
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height=30 weidth=30 />
 
 ## Git Stats 
 
