@@ -1,4 +1,5 @@
 ## Hi there 👋🏽, I'm Eduarda 👩🏽‍💻. Welcome to my GitHub!
+
 Intern at [Avanade](https://www.avanade.com/pt-br/about-avanade)
 
 #### _I was born and raised in Recife, Pernambuco. Besides technology, I'm passionate about knowledge and culture. As an insatiable curious soul, I enjoy learning and researching about various interests. Currently, I'm an intern at Avanade. I have a great love for books and films, especially French cinema. However, my heart truly belongs to Maya, my beloved dog. In my free time, I enjoy doing skincare routines while listening to Beyoncé._
