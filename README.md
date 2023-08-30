@@ -37,16 +37,4 @@
 <a href="https://www.linkedin.com/in/eduardaalves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
-### That's All Folks! 🏄🏽‍♀
-<p align="center">
-  <img src="https://ib.canaltech.com.br/361132.gif" />
-</p>
-
-[//]: <> (Visitantes)
-
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=eduardaalvess&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
-
-[//]: <> (End)
-
-
 
