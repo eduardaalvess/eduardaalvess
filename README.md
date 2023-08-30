@@ -25,7 +25,7 @@
 ### Git Stats ⭐️
 
 <div>  
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaalvess&layout=compact&langs_count=8&theme=dracula"/> 
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaalvess&layout=compact&langs_count=8&theme=dracula"/> 
 
 </div>  
 
