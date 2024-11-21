@@ -17,8 +17,7 @@ Nos meus projetos, busco sempre aplicar boas práticas e criar soluções escal�
 <a href=" " target="_blank"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" target="_blank"></a> 
 <a href=" " target="_blank"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" target="_blank"></a> 
 <a href=" " target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank"></a> 
-<a href=" " target="_blank"><img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" target="_blank"></a> 
-<a href=" " target="_blank"><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" target="_blank"></a> 
+
 
 ### Frameworks
 
@@ -30,6 +29,8 @@ Nos meus projetos, busco sempre aplicar boas práticas e criar soluções escal�
 <a href=" " target="_blank"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" target="_blank"></a> 
 <a href=" " target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank"></a> 
 <a href=" " target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" target="_blank"></a> 
+<a href=" " target="_blank"><img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" target="_blank"></a> 
+<a href=" " target="_blank"><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" target="_blank"></a> 
 
 ### Banco de Dados e Nuvem
 
