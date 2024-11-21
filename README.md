@@ -29,7 +29,6 @@ Nos meus projetos, busco sempre aplicar boas práticas e criar soluções escal�
 <a href=" " target="_blank"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" target="_blank"></a> 
 <a href=" " target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank"></a> 
 <a href=" " target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" target="_blank"></a> 
-<a href=" " target="_blank"><img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" target="_blank"></a> 
 <a href=" " target="_blank"><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" target="_blank"></a> 
 
 ### Banco de Dados e Nuvem
@@ -46,6 +45,7 @@ Nos meus projetos, busco sempre aplicar boas práticas e criar soluções escal�
 
 <a href=" " target="_blank"><img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" target="_blank"></a> 
 <a href=" " target="_blank"><img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" target="_blank"></a> 
+<a href=" " target="_blank"><img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" target="_blank"></a> 
 <a href=" " target="_blank"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" target="_blank"></a> 
 <a href=" " target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a> 
 <a href=" " target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a> 
